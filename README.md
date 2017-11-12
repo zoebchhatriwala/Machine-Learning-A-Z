@@ -1,0 +1,27 @@
+# Machine-Learning-A-Z
+
+Welcome to the python files and data repository for the MACHINE LEARNING A-Z Course by Kirill Eremenko and Hadelin de Ponteves.
+
+The python files, datasets and other supplementary materials are as below.
+
+PART 0. WELCOME TO THE COURSE!
+
+PART 1. DATA PREPROCESSING
+
+PART 2. REGRESSION
+
+PART 3. CLASSIFICATION
+
+PART 4. CLUSTERING
+
+PART 5. ASSOCIATION RULE LEARNING
+
+PART 6. REINFORCEMENT LEARNING
+
+PART 7. NATURAL LANGUAGE PROCESSING
+
+PART 8. DEEP LEARNING
+
+PART 9. DIMENSIONALITY REDUCTION
+
+PART 10. MODEL SELECTION
